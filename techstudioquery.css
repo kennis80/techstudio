@@ -1,0 +1,29 @@
+@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ }
+@media (min-width:480px) {
+    .space{
+        /* background-color: blue; */
+        font-size: 10px;
+        width: 150px;
+    }
+    .work1{
+        /* background-color: chocolate; */
+        width: 3px;
+        font-size: 14px;
+        /* margin-left: 10px; */
+        /* font-size:4px ; */
+        
+    }
+    nav{
+        padding-left: 10px;
+    }
+
+    .hog8{
+        font-size: medium;
+        margin-right 20px;
+        background-color: crimson;
+    }
+
+@media (min-width:600px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ }
+@media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }  

@@ -1,0 +1,15 @@
+.div1{
+    width: 1000px;
+    height: 500px;
+    padding: ;
+    padding-top: ;
+    color: white;
+    background-image: linear-gradient(to right, rgba(77, 71, 71, 0.4), rgba(0,0,0,0.5)), url(./images/8g4.jpg);
+}
+
+.div2{
+    width: 1000px;
+    height:500px ;
+    background-image: linear-gradient(to right, rgba(77, 71, 71, 0.4), rgba(0,0,0,0.5)), url(./images/hus\ imag2.jpg);
+    color: white;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: #FFFFFF;
+    margin: 0;
+    text-align : center;
+}
+.G1{
+    float: right;
+    
+
+
+}
+.g2{
+    background-color:whitesmoke;
+    width: 90%;
+    height: 15px;
+    border-radius: none;
+    box-shadow: transparent;
+    margin-top: 100px;
+    
+}
+input{
+    width: 1500px;
+    height: 60px;
+    border-radius: 20px;
+    box-shadow: 5px 5px lightgray;
+    border-style: hidden;
+}

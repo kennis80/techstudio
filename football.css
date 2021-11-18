@@ -1,0 +1,15 @@
+.Ball1{
+    background-image: url(./FOOTBALL.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+}
+.messi2{
+    width: 170px;
+    height: 650px;
+    float: right;
+    margin-right: 12px;
+    margin-top: 30  px;
+    position: relative;
+}
